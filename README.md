@@ -1,7 +1,7 @@
 # Form-Management
 
 1. Download the Form-Management Solution:<br>
-    You can download the Form-Management solution directly from this page.
+    You can download the Form-Management solution directly from this page. (right side at releases)
 
 2. Prepare the environment:
     Before importing the solution, you need to set up an environment. You have two options:<br>
